@@ -1,0 +1,11 @@
+{
+	"name": "data-structures-and-algorithms",
+	"version": "1.0.0",
+	"description": "Practical examples of data structures and algorithms",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"author": "Beknur Zheenkulov",
+	"license": "ISC"
+}
